@@ -1,0 +1,11 @@
+/* custom_600.css | v1904B 2019/04 AOR, LTD. | www.aorja.com/receivers/ar-web-api/ */
+@charset "utf-8";
+.receiver-panel {
+    min-height: 240px;
+}
+.receiver-frontpanel div.main {
+    font-size: 90%;
+}
+.receiver-frontpanel .main .main-inner-left .display .display-inner .display-status span {
+    margin-right: 0;
+}
